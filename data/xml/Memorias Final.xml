@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI><teiHeader><fileDesc>
+<titleStmt>
+<title>A transcription of "Memorias" by Leonor López de Cordoba</title>
+</titleStmt>
+<publicationStmt><p>Published as a part of a digital edition for Holly Brown's dissertation</p></publicationStmt>
+<sourceDesc><p>Manuscript "I" Manuel de Ayora, 1778. MS. 59-5-31. Institucion Colombina, Seville</p></sourceDesc>
+</fileDesc></teiHeader><text><body><div n="M">
+
+<pb n="1r"/>
+<div n="1">
+<ab n="100"><seg type="intertext" subtype="biblical">En el nombre de <seg type="authority" subtype="God">Padre</seg>, y <seg type="authority" subtype="Jesus">del hijo</seg>, y <seg type="authority" subtype="Holy Spirit">del es
+<lb rend="hyphen" break="no"/>piritu S<am>.ͭͦ</am><ex>anto</ex></seg>, asi como era
+<lb/>en el comienzo, asi es agora, y p<am>.ͬ</am><ex>or</ex> el Siglo delos
+<lb/>Siglos amen=</seg></ab> <ab n="200"><seg type="clerical" subtype="prayer">En el nombre del qual <choice><abbr>Sobred<am>̄</am>h<am>̄</am>o</abbr><expan>Sobre<ex>dicho</ex></expan></choice>
+<lb/><seg type="authority" subtype="God">S<am>.ͦ</am><ex>eñor</ex></seg>, y <seg type="authority" subtype="Virgin">dela Virgen S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name> su <seg type="parent" subtype="mother">Madre</seg></seg>, y
+<lb/>S<am>.ͣ</am><ex>eñora</ex> y Abogada de los Pecadores, y ã honrra, y
+<lb/>en salsam<am>.ͭͦ</am><ex>ento</ex> de todos los Angeles, e<am>̄</am> S<am>.ͭͦ̾</am><ex>antos</ex> y S<am>.ͭͣ̾</am><ex>antas</ex>
+<lb/>dela Corte del Cielo amen=</seg></ab></div><note resp="hkbobs">Some critics have made reference to the fact that this formal opening indicates a lack of authorship on the part of Leonor and a strong presence of a notary in her work</note>
+<div n="2"><ab n="100"><lb/>Por ende, Sepan q<am>.ͭͦ̾</am><ex>uantos</ex> esta en<am>.ͬͣ</am><ex>tera</ex> vieren<note resp="hkbobs">that her readership bear witness and "see" her truth is very important for Leonor as is who her parentage is</note>, co
+<lb rend="hyphen" break="no"/>mo <seg type="I">yo</seg> <person>D<am>.ͣ</am><ex>oña</ex> Leonor Lopez de Cor<am>.ᵇͣ</am><ex>doba</ex></person>, fija de mi
+<lb/>S<am>.ͦͬ</am><ex>eñor</ex> <person>El <choice><abbr>Mr<am>̄</am>e</abbr><expan>M<ex>aest</ex>re</expan></choice> D<am>.ᷠ</am><ex>on</ex><choice><abbr>Mr<am>̄</am>n</abbr><expan>M<ex>arti</ex>n</expan></choice> Lopez de Cor<am>.ᵇͣ</am><ex>doba</ex></person>, e<am>̄</am> <person>D<am>.ͣ</am><ex>oña</ex>
+<lb/>Sancha Carrillo</person>, ã q<am>.ᷠ</am><ex>uien</ex> de<am>̄</am> <seg type="authority" subtype="God">Dios</seg> gloria, y Paray
+<lb rend="hyphen" break="no"/>so=</ab> <ab n="200"><seg type="laic" subtype="testament">Juro p<am>.ͬ</am><ex>or</ex> esta significanza de ♰, enq<am>.ͤ</am><ex>ue</ex> <seg type="I">Yo</seg>
+<lb/>adoro, como todo esto q<am>.ͤ</am><ex>ue</ex> aquí es escrito es
+<lb/>verdad q<am>.ͤ</am><ex>ue</ex> lo vi, y pasõ p<am>.ͬ</am><ex>or</ex> mi</seg>, <note resp="hkbobs">what Leonor writes is true because she saw it and it happened to her. In other words she is an eye witness to the events she relates and her life functions as an example</note> y escribolo ã
+ 
+<pb n="1v"/>honrra, y alabanza de mi S<am>.ͦͬ</am><ex>eñor</ex> <seg type="authority" subytype="Jesus">Jesu Christo</seg>,
+<lb/>e<am>̄</am> de <seg type="authority" subtype="Virgin">la Virgen S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name> su <seg type="parent" subtype="mother">Madre</seg></seg> q<am>.ͤ</am><ex>ue</ex>lo pa
+<lb rend="hyphen" break= "no"/>riõ,</ab><ab n="300"><choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> todas las criaturas q<am>.ͤ</am><ex>ue</ex> estubieren
+<lb/>en tribulacion sean ciertos <note resp="hkbobs">this demonstrates an awareness of audience and an understanding that her words have the power to help others. Her life as an exempla, to teach others.</note>, q<am>.ͤ</am><ex>ue</ex> <seg type="I">yo</seg> espero ensu
+<lb/>misericordia, q<am>.ͤ</am><ex>ue</ex> si se encomiendan de cora
+<lb rend="hyphen" break="no"/>zon ã <seg type="authority" subtype="Virgin">la Virgen S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name></seg>, q<am>.ͤ</am><ex>ue</ex> <seg type="clerical" subtype="consolation">Ella las conso
+<lb rend="hyphen" break="no"/>larã, y acorrerã como consolõ a mi</seg><note resp="hkbobs">the Virgin Mary as the savior for women and a role model. Leonor again uses herself as an example</note></ab><ab n="400">y <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>
+<lb/><seg type="rhetoric" subtype="oralitu">quien lo oyere sepan</seg> <seg type="laic" subtype="relacion">la relacion de todos mis
+<lb/>echos</seg> <note resp="hkbobs">"quien lo oyere" implicates a listening audience- perhaps women who cannot read?</note> e<am>̄</am> milagros q<am>.ͤ</am><ex>ue</ex> la <seg type="authority" subtype="Virgin">Virgen</seg>  S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name>, me
+<lb/> mostrõ</ab><note resp="hkbobs">The Virgin Mary shows Leonor miracles- related to visions</note></div>
+
+<div n="3"><ab n="100">y es mi intencion q<am>.ͤ</am><ex>ue</ex> quede p<am>.ͬ</am><ex>or</ex> memo
+<lb rend="hyphen" break="no"/>ria<note resp="hkbobs">it couldn't be clearer that Leonor wants her voice to be heard and her life remermbered. She explicitly indicated her "intention."</note>, <seg type="lexis" subtype="meta"><seg type="lexis" subtype="apellative">mandelo</seg> esrcrevir</seg> <note resp="HKBOBS">here critics have pointed out that Leonor didn't write this memoir because she "mandelo escrevir"</note> <seg type="lexis" subtype="meta">asi como vedes</seg>,</ab><ab n="200"> y asi
+<lb/>q<am>.ͤ</am><ex>ue</ex> <seg type="I">yo</seg> soy fija del dicho <choice><abbr>Mr<am>̄</am>e</abbr><expan>M<ex>aest</ex>re</expan></choice>, q<am>.ͤ</am><ex>ue</ex> fue<am>̄</am> de <name>Cala
+<lb rend="hyphen" break="no"/>trava</name>, en el tiempo del S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Pedro</name>, y
+<lb/>el dicho S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> le hizo <choice><abbr>mr<am>̄</am>d</abbr><expan>m<ex>e</ex>r<ex>ce</ex>d</expan></choice> de darle <place>la enco
+<lb rend="hyphen" break="no"/>mienda de Alcantara</place>, q<am>.ͤ</am><ex>ue</ex> es en la <place>Ciu<am>ͩ</am><ex>dad</ex> de Sevi
+<lb rend="hyphen" break= "no"/>lla</place>, y luego le hizo <choice><abbr>Mr<am>̄</am>e</abbr><expan>M<ex>aest</ex>re</expan></choice> de Alcantara, y ã la
+<lb/>postre de calatrava<note resp="hkbobs">Throughout Memorias, Leonor is very concerned with naming the key figures and especially recognizing their titles.</note></ab><ab n="300"><seg type="laic" subtype="chronicle">Y el dicho <choice><abbr>Mr<am>̄</am>e</abbr><expan>M<ex>aest</ex>re</expan></choice> mi Pa
+<lb rend="hyphen" break="no"/>dre era Desz<am>.ͭͤ</am><ex>endiente</ex> dela <name>Casa de Aguilar</name>, y So
+<lb rend="hyphen" break="no"/>brino de <person>D<am>.ᷠ</am><ex>on</ex> Juan Manuel</person><note resp="hkbobs">there are some questions as to the truthfulness of this relationship, howver Leonor is referring to Don Juan Manuel the well-known politician and author. Irrespective of their kinship, his mention in her text indicates her familiarity with his work: his use of the exempla and his treatment of women.</note>, fijo de una Sob<am>.ᷠͣ</am><ex>rina</ex>
+<lb/>suya, fija de dos Hermanos</seg>, y <seg type="rhetoric" subtype="amplification">subiõ ã tan
+<lb/>grande estado</seg>, <seg type="authority" subtype="chronicle">como se hallarã enlas <seg type="intertext" subtype="chronicle">Coro
+<lb rend="hyphen" break="no"/>nicas de España</seg></seg>, e<am>̄</am> como dicho tengo soy fija
+<lb/>de <seg type="lexis" subtype="mother"><person>D<am>.ͣ</am><ex>oña</ex> <name>Sancha Carillo</name></person></seg>, Sob<am>.ᷠͣ</am><ex>rina</ex> e<am>̄</am> criada del S<am>.ͬ</am><ex>eñor</ex>
+<lb/><person>Rey</person> D<am>.</am><ex>on</ex> <name>Alfonso</name> de mi esclarecida memoria
+<lb/>(q<am>.ͤ</am><ex>ue</ex> <seg type="authority" subtype="God">Dios</seg> de S<am>.ͭͦ</am><ex>anto</ex> Parayso) <seg type="parent" subtype="father">Padre</seg> del dicho S<am>.ͦͬ</am><ex>eñor</ex>
+<lb/><person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Pedro</name>,</ab><ab n="400"> <seg type="laic" subtype="autobiography">y mi <seg type="parent" subtype="mother">Madre</seg> falleciõ mui tem
+<lb rend="hyphen" break="no"/>prano, y así me casõ mi <seg type="parent" subtype="father">Padre</seg> de siete años</seg>
+ 
+<pb n="2r"/>con <name>Ruy Gutierrez de Henestrosa</name> hijo de <name>Ju
+<lb rend="hyphen" break="no"/>an <choice><abbr>Fer<am>̄</am>nz</abbr><expan>Fern<ex>ande</ex>z</expan></choice> de Henestrosa</name>, <person>Camarero mayor</person> del
+<lb/>S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Pedro</name>, y su <name>Chanz<am>.ͬ</am><ex>ellor</ex> m<am>.ͦͬ</am><ex>ayor</ex> del sello
+<lb/>dela puridad, y Mayordomo m<am>.ͦͬ</am><ex>ayor</ex></name> dela <person>Rey</person> na
+<lb/>D<am>.ͣ</am><ex>oña</ex> <name>Blanca</name> <seg type="lexis" subtype="person">su muger</seg>, el qual casõ con <person>D<am>.ͣ</am><ex>oña</ex> <name>Ma
+<lb rend="hyphen" break="no"/>ria de Haro</name>, S<am>.ͬͣ</am><ex>eñora</ex> de <place>Haro</place>, y los Cameros</person>;</ab><ab n="500">y
+ <lb/>ã <person>mi Marido</person> quedaronle m<am>.̾</am><ex>iles</ex> <seg type="lexis" subtype="material">vienes</seg> de su Pa
+<lb rend="hyphen" break="no"/>dre, y <seg type="material">m<am>.̾</am><ex>iles</ex> Lugares, y alcanzaba tresz<am>.ͭͦ̾</am><ex>ientos</ex> de ã
+<lb/>cavallo suyos, e<am>̄</am> quarenta madejas de Aljofar,
+<lb/>tan grueso como garvanzos,<note resp="hkbobs">a cultural reference to food</note> e<am>̄</am> quin<am>.ͭͦ</am><ex>ientos</ex> moros,
+<lb/>e<am>̄</am> moras, <seg type="lexis" subtype="material">y dos mill marcos de plata en bajilla,
+<lb/>y las Joyas,</seg><note resp="hkbobs">clearly Leonor attempts to regal the reader with a vision of her former oppulence</note> y preseas de su <place>casa</place> no las pu
+<lb rend="hyphen" break="no"/>dieron <seg type="rhetoric" subytpe="literacy">escrevir en dos pliegos de papel,</seg></seg><note resp="hkbobs">notice the attention paid to namimg her husband's wealth and the explicit mention of paper- this indicates an awareness of documents and perhaps suggests that Leonor was at least moinimally literate</note> y esto
+<lb/>le cupo del dicho su <seg type="parent" subtype="father">Padre</seg> y <seg type="parent" subtype="mother">Madre</seg> <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> <seg type="laic" subtype="testament">otro
+<lb/>fijo, y heredero non tenian</seg>:</ab><ab n="600">ã mi me diõ mi
+<lb/><seg type="parent" subtype="father">Padre</seg> <seg type="lexis" subtype="material">veinte mill doblas</seg> en <seg type="laic" subtype="juridical">Casam<am>.ͭͦ</am><ex>ento</ex></seg> <seg type="laic" subtype="autobiography">y residi
+<lb rend="hyphen" break="no"/>amos en <place>Carmona</place> con las fijas del S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person>
+<lb/>D<am>.ᷠ</am><ex>on</ex> <name>Pedro</name>, mi marido, y <seg type="I">Yo</seg>, e<am>̄</am> mis Cuñados,
+<lb/>Maridos de mis hermanas, y un herm<am>.ͦ</am><ex>ano</ex>mio
+<lb/>q<am>ͤ</am><ex>ue</ex> se llamaba <person>D<am>.ᷠ</am><ex>on</ex> <name>Lope Lopez de Cor<am>.ᵇͣ</am><ex>doba</ex> Carri
+<lb rend="hyphen" break="no"/>llo</name></person>:</seg> <seg type="laic" subtype="chronicle">llamabanse mis cuñados <person>Fernan Rodri
+<lb rend="hyphen" break="no"/>guez de Aza</person>, S<am>.ͦͬ</am><ex>eñor</ex> de <name>Aza, e<am>̄</am> Villalobos</name>, e<am>̄</am> el otro
+<lb/><person>Ruy Garcia de Aza</person>, el otro <person>Lope Rodriguez 
+<lb/>de Aza</person>, e<am>̄</am> de <person>D<am>ͣ</am><ex>oña</ex> Constanza de Villalobos:</person></seg></ab><ab n="700"><note resp="hkbobs">I think it was Georges Duby, in reference to Duohda who discusses how women were the recorders of family history in the 12th century. How women are the caretakers of life and death</note> y fue<am>̄</am> 
+<lb/>ansi, <seg type="laic" subtype="relación">q<am>.ͤ</am><ex>ue</ex> q<am>.ͩͦ</am><ex>ando</ex> el S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Pedro</name> quedõ cer
+  
+<pb n="2v"/>cado en el <place>Castillo de Montiel</place> de su herm<am>.ͦ</am><ex>ano</ex>
+<lb/>el S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Enrrique,</name></seg></ab><ab n="800"> mi <seg type="parent" subtype="father">Padre</seg> bajõ al <place>An
+<lb rend="hyphen" break="no"/>daluzia</place> ã llevar gente p<am>.ͬͣ</am><ex>ara</ex> socorrerlo, y llevan
+    <lb rend="hyphen" break="no"/>dola, hallõ q<am>.ͤ</am><ex>ue</ex> era <seg type="lexis" subytpe="body">muerto ã manos de</seg> su herm<am>ᷠͦ</am><ex>ano</ex>;<note resp="hkbobs">the expression "a manos de" will return later in some form when Leonor recounts a servant's death. It could indicate that the servant's death was not accidental.</note></ab><ab n="900">
+<lb/>y vista esta desgracia<note resp="hkbobs">all throughout Memorias, Leonor's voice can be heard. Memorias is not just an objective account of the facts as she would have us believe.</note> tomõ el camino p<am>.ͬͣ</am><ex>ara</ex> 
+    <lb/><place>carmona</place> donde estaban <seg type="lexis" subtype="person">las señoras Infan
+    <lb rend="hyphen" break="no"/>tas,</seg> <seg type="laic" subtype="chronicle"><seg type="lexis" subtype="daughers">fijas</seg> del S<am>.ͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Pedro</name>, y Parientas
+<lb/>tan cercanas de mi Marido, y mias p<am>.ͬ</am><ex>or</ex> <seg type="parent" subtype="mother">mi 
+    <lb/><seg type="parent" subtype="mother">Madre</seg></seg></seg>,</ab><ab n="1000"> y el S<am>.ͦ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Enrrique</name> viendose <person>Rey</person>
+<lb/>de <place>Castilla</place> se vino ã <place>Sevilla</place>, y puso cerco ã <place>carmona</place>, y como es <place>villa</place> tan fuerte, estubo
+<lb/>m<am>.̾</am><ex>iles</ex> meses cercada,</ab><ab n="1100"> y acaso hav<am>.ͩͦ</am><ex>ido</ex> salido mi
+<lb/><seg type="parent" subtype="father">Padre</seg> fuera de ella, y sabiendolo los del Real
+<lb/>Del <person>Rey</person>, como era salido de la dicha <place>Villa</place>, y
+<lb/>q<am>.ͤ</am><ex>ue</ex> no quedaria tan buen cobro en ella, ofrecie
+<lb rend="hyphen" break="no"/>ronse doze cav<am>.ͬͦ̾</am><ex>alleros</ex> ã escalar <place>la Villa</place>, y subidos
+<lb/>ã ella ã la Muralla, fueron presos,</ab><ab n="1200"> y luego
+<lb/>fue<am>̄</am> avisado <seg type="parent" subtype="father">mi Padre</seg> del tal echo, y vino
+    <lb/>luego, <seg type="rhetoric" subtype="amplification">y p<am>.ͬ</am><ex>or</ex> el atrevim<am>ͭͦ</am><ex>iento</ex></seg> les mandó cortar las
+<lb/><seg type="body">cavezas</seg>,</ab> <ab n="1300">y el S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Enrrique</name> visto e<am>̄</am>s
+<lb rend="hyphen" break="no"/> te fecho, y q<am>.ͤ</am><ex>ue</ex> no podía y p<am>ͬ</am><ex>or</ex> fuerzas de armas
+<lb/> entrarle ã satisfazerse de este echo, mandõ 
+<lb/>al <name>Condestable de Castilla</name> tratase de medi
+<lb rend="hyphen" break="no"/>os con <seg type="parent" subtype="father">mi Padre</seg>,</ab> <ab n="1400">y los medios q<am>.ͤ</am><ex>ue</ex> mi <seg type="parent" subtype="father">Padre</seg>
+<lb/>trazõ fueros dos, el uno q<am>.ͤ</am><ex>ue</ex> <person>las Señoras Im
+<lb rend="hyphen" break="no"/>fantas</person> las havian de poner libres ã ellas
+  
+<pb n="3r"/>y ã <seg type="material">sus tesoros</seg> en <seg type="place">Inglaterra</seg>, antes q<am>.ͤ</am><ex>ue</ex> el
+<lb/> entregase la <place>villa</place> dicha ãl <person>Rey</person>, y asi fue<am>̄</am> <note type="tr" resp="HKB">a word is missing here</note>
+<lb/><choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> mandõ ã unos escuderos, Deudos suyos, na
+<lb rend="hyphen" break="no"/>turales de <seg type="place">Cor<am>ᵇͣ</am><ex>doba</ex></seg>, y de su Apellido q<am>.ͤ</am><ex>ue</ex> fuesen con
+<lb/>ellas, y las demas gente q<am>.ͤ</am><ex>ue</ex> le pareciõ:</ab><ab n="2100"> <seg type="laic" subtype="chronicle"><seg type="rhetoric" subtype="meta">El Otro Ca
+<lb rend="hyphen" break="no"/>pitulo</seg> fue<am>̄</am></seg> q<am>.ͤ</am><ex>ue</ex> El, y sus hijos, y Valedores, y los 
+<lb/>q<am>.ͤ</am><ex>ue</ex> havian asistido p<am>ͬ</am><ex>or</ex> su or<am>ñ</am><ex>den</ex> en aquella <place>villa</place>
+<lb/>fuesen perdonados del<person>Rey</person>, y dados p<am>.ͬ</am><ex>or</ex> Leales
+ <lb/> ã Ellos, y ã sus haziendas,</ab><ab n="2200"> y asi se le diõ fir
+<lb rend="hyphen" break="no"/>mado del dicho <person>Condestable</person> en <choice><abbr>nr<am>̄</am>e</abbr><expan>n<ex>omb</ex>r<ex>e</ex></expan></choice> del <person>Rey</person></ab> <ab n="2300"> y
+<lb/>echo este partido entregõ la <place>Villa</place> al dicho Con
+<lb rend="hyphen" break="no"/>destable, en <choice><abbr>nr<am>̄</am>e</abbr><expan>n<ex>omb</ex>r<ex>e</ex></expan></choice> del <person>Rey</person>, y de alli fueron El, y
+    <lb/>sus hijos, y las demas gente ã <seg type="lexis" subtype="body">besar la mano</seg>
+<lb/>del <person>Rey</person>; y el S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Enrrique</name> mandolos
+<lb/>prender, y poner en <seg type="place">las Atarazanas de Sev<am>.ͣ</am><ex>illa</ex></seg><note resp="hkbobs">I am not sure how to categorize this moment other than to identify Leonor's subtle argumentantion implying the unfairness of how her family was treated. ONe the one hand the King's loyal servants asked for clemency and on the other they were betrayed byt the King himslef.</note></ab> <ab n="2400">y
+<lb/>el dicho <person>condestable</person> visto q<am>.ͤ</am><ex>ue</ex> el S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>En
+<lb rend="hyphen" break="no"/>rrique</name>, <seg type="rhetoric" subtype= "witness">no le havia cumplido la palabra q<am>.ͤ</am><ex>ue</ex> El
+<lb/>havia dado, en su nombre</seg>, ãl <person>dicho Maestre</person>, se 
+<lb/>saliõ de su <seg type="lexis" subtype="space">Corte</seg>, <seg type="rhetoric" subtype="amplification"> y nunca mas volviõ ã ella</seg>,</ab> <ab n="2500"> y
+<lb/>el el S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> mandõ q<am>.ͤ</am><ex>ue</ex> <seg type="lexis" subtype="body">le cortasen la cabeza</seg> ã
+<lb/>mi <seg type="parent" subtype="father">Padre</seg> en <place>la Plaza de S<am>.</am><ex>an</ex> Fran<am>ͨͦ</am><ex>cisco</ex></place> de <place>Sevilla</place>
+<lb/>y q<am>.ͤ</am><ex>ue</ex> <seg type="lexis" subtype="material">le fuesen confiscados sus vienes, y los de su yerno, valedores, y criados;</seg></ab> <ab n="2600"> <seg type= "lexis" subtype="body">y yendole ã
+<lb/>cortar la Cabeza</seg> encontrõ con <name>Mosen Bel
+<lb rend="hyphen" break="no"/>tran de Clequin</name>, <person>Cav<am>.ͬͦ</am><ex>allero</ex> franzes</person>, que fue<am>̄</am> el Ca
+<lb rend="hyphen" break="no"/>vallero q<am>.ͤ</am><ex>ue</ex> el <person>Rey</person> D<am>.ᷠ</am> <name>Pedro</name> se havia fiado 
+<lb/><choice><abbr>de<am>̄</am>l</abbr><expan>d<ex>e</ex> el</expan></choice>, q<am>.ͤ</am><ex>ue</ex> lo ponia en Salvo estando cercado en
+  
+<pb n="3v"/><place>el Castillo de Montiel</place>, y no cumpliendo lo que le prometiõ,</ab> <ab n="2700"> antes le entregõ ãl <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Enrrique</name>
+<lb/><choice><abbr>p<am>.ͣ</am>q<am>.ͤ</am></abbr><expan>p<ex>ara</ex>q<ex>ue</ex></expan></choice> lo matase, y como encontrõ ä el <choice><abbr>Mr<am>̄</am>e</abbr>abbr><expan>M<ex>aest</ex>re</expan></choice> dijo
+<lb rend="hyphen" break="no"/>le: <seg type="laic" subtype="performance"><person><seg rend="ul">S<am>.ͦͬ</am><ex>eñor</ex></seg> Maestre</person> no os decia <seg type="I">Yo</seg> q<am>.ͤ</am><ex>ue</ex> <choice><abbr>Vr<am>̄</am>as</abbr><expan>M<ex>uest</ex>ras</expan></choice> andan
+<lb rend="hyphen" break="no"/>zas havian de para en esto? y El respondiõ
+<lb/> Mas vale morir como Leal, como <seg type="I">Yo</seg> lo he<am>̄</am> echo,
+<lb/>q<am>ͤ</am><ex>ue</ex> no vivir como vos vivis, hav<am>.ͩͦ</am><ex>ido</ex> sido traydor:</seg></ab>
+<lb/><ab n="2800"/>y <seg type="I">estubimos</seg> los demas q<am>.ͤ</am><ex>ue</ex> quedamos presos <time>nueve 
+<lb/>años</time> hasta q<am>.ͤ</am><ex>ue</ex> el S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Henrrique</name> falle
+<lb rend="hyphen" break="no"/>ciõ <ab n="2900"> y <choice><abbr>nr<am>̄</am>s<expan>n<ex>uest</ex>r<ex>o</ex>s</expan></abbr></choice> <seg type="person" subtype= "husband">Maridos</seg> tenian <seg type="rhetoric" subtype="amplification">sesenta libras de
+<lb/>hierro cada uno en los pies</seg>, y <seg type="lexis" subtype="brother">mi herm<am>.ͦ</am></seg> D<am>.ᷠ</am><ex>on</ex>
+<lb/><name>Lope Lopez</name> tenia una cadena encima de los
+<lb/>enq<am>.ͤ</am><ex>ue</ex> <seg type="rhetoric" subtype="amplification">havia setenta eslabones</seg>, <seg type="rhetoric" subtype="amplification">el era
+<lb/>Niño de treze años, la mas hermosa criatu
+<lb/>ra q<am>.ͤ</am><ex>ue</ex> havia en el mundo</seg> e<am>̄</am> ã <seg type="person" subtype= "husband">mi Marido</seg> en 
+<lb/>especial ponianlo en el <seg type="lexis" subtype="body">Algive dela hambre</seg>, e<am>̄</am>
+<lb/><seg type="lexis" subtype="time">tenianlo seis, õ siete dias</seg> q<am>.ͤ</am><ex>ue</ex> <seg type="lexis" subtype="food">nunca comia, ni
+<lb/>vebia</seg> <choice><abbr>p<am>.ͦ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> era Primo delas Señoras Infan
+<lb/>tas, hijas del S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Pedro</name>:/ab> En esto vino
+<lb/><seg type="lexis" subtype="body">una pestilencia</seg>, e<am>̄</am> <seg type="lexis" subtype="body">muerieron todos mis dos hermanos, e<am>̄</am> mis cuñados, e<am>̄</am> treze cav<am>.ͬͦ̾</am><ex>alleros</ex> dela <place>casa</place>
+<lb/>de mi <seg type="parent" subtype="father">Padre</seg></seg>, e<am>̄</am> <name>Sancho Miñez de Villendra</name>, su
+<lb/><person>Camarero m<am>.ͦͬ</am><ex>ayor</ex></person>, <seg type="lexis" subtype="I">decia ã mi</seg>, y ã <seg type="lexis" subtype="sibling"> mis hermanos</seg>,
+<lb/>Hijos de mi S<am>.ͦͬ</am><ex>eñor</ex> Rogad a <seg type="authority" subtype="God">Dios</seg> q<am>.ͤ</am><ex>ue</ex> os viba <seg type="lexis" subtype="I">Yo</seg>, q<am>.ͤ</am><ex>ue</ex>
+<lb/>si <seg type="I">yo</seg> õs, nunca morireis Pobres, e<am>̄</am> plugõ ã
+<lb/><seg type="authority" subtype="God">Dios</seg> q<am>.ͤ</am><ex>ue</ex> <seg type="lexis" subtype="body">muriõ</seg> <seg type="lexis" subtype="time"><seg type="lexis" subtype="number">el terz<am>.ͦ</am><ex>ero</ex></seg> dia</seg> <seg type="rhetoric" subtype="orality">sin hablar</seg>; e<am>̄</am> ã to
+<lb rend="hyphen" break="no"/>dos los sacaban ã desherrar, al <place>Desherrera
+
+<pb n="4r"/>dero</place> <seg type="laic" subtype="coloquial">como Moros</seg>,</ab> <ab n="3000">despues de <seg type="lexis" subtype="body">muertos</seg> ã <seg type="rhetoric" subtype="coloquial">el tris
+<lb/>te de</seg> <seg type="lexis" subtype="sibling">mi hermano</seg> D<am>.ᷠ</am><ex>on</ex> <name>Lope Lopez</name> pidiõ ãl <person>Alcayde</person>
+<lb/>que nos tenian, q<am>.ͤ</am><ex>u</ex> le dixesen a <name>Gonzalo Ruiz
+<lb/>Bolante</name> <seg type="laic" subtype="performance"/><seg type="rhetoric" subtype="amplification">q<am>.ͤ</am><ex>u</ex> nos hacia mucha Charidad, e<am>̄</am> mucha
+<lb/>honrra p<am>.ͬ</am><ex>or</ex> amor de <seg type="authority" subtype="God">Dios</seg>, S<am>.ͦͬ</am><ex>eñor</ex> <person>Alcayde</person> sea ago
+<lb rend="hyphen" break="no"/>ra <choice><abbr>vr<am>̄</am>a</abbr><expan>v<ex>uest</ex>ra</expan></choice> <choice><abbr>mr<am>̄</am>d</abbr><expan>m<ex>e</ex>r<ex>ce</ex>d</expan></choice> q<am>.ͤ</am><ex>ue</ex> me tirase estos <seg type="lexis" subtype="material">hierros</seg> en
+<lb/>antes q<am>.ͤ</am><ex>ue</ex> salga mi anima, e<am>̄</am> q<am>.ͤ</am><ex>ue</ex> no me sacasen
+<lb/>al <place>deserradero</place>,</seg> <seg type="laic" subtype="performance">ã <seg type="rhetoric" subtype="orality">el (dijole)</seg> <seg type="laic" subtype="colloquial">como ã moro</seg>, si
+<lb/>en mi fuese <seg type="lexis" subtype="I">yo</seg> lo faria</seg></ab><ab n="3100"> y en esto <seg type="lexis" subtype="body">saliõ su ani
+<lb rend="hyphen" break="no"/>ma en mis manos</seg>, q<am>.ͤ</am><ex>ue</ex> havia el <seg type="lexis" subtype="time">un año mas</seg> q<am>.ͤ</am><ex>ue</ex>
+<lb/><seg type="I">Yo</seg><note resp="HKBOBS">Clearly this is a deeply disturbing moment for Leonor (she reminds us her brother was only a year older than she was) as she adds a level of detail to the events leading up to her little brother's death in a way she does not confer to other mentions of deaths in the remainder of the memoir.</note>, e<am>̄</am> sacaronlo en una tabla ãl Desherrade
+<lb rend="hyphen" break="no"/>ro <seg type="laic" subtype="colloquial">como ã Moro</seg>, <seg type="rhetoric" subtype="anaphor">e<am>̄</am> enterraronlo con <person>mis her
+<lb rend="hyphen" break="no"/>manos</person> e<am>̄</am> con <person>mis hermanas</person>, e<am>̄</am> con <person>mis cuña
+<lb rend="hyphen" break="no"/>dos</person></seg> en <place>S<am>.</am><ex>an</ex> Fran<am>.ͨͦ</am><ex>cisco</ex> de Sevilla</place></ab><ab n="3200">y mis <person>Cuñados</person>
+<lb/>trayan sendos <seg type="material">collares de Oro</seg> ãla <seg type="body">garganta</seg>,
+<lb/>q<am>.ͤ</am><ex>ue</ex> eran <seg type="lexis" subtype="sibling"><person>cinco hermanos</person></seg>, e<am>̄</am> se pusieron aque
+<lb rend="hyphen" break="no"/>llos <seg type="material">Collares</seg> en <place>S<am>.ͭͣ</am><ex>anta</ex> Maria de Guadalupe</place>, e<am>̄</am>
+<lb/><seg type="laic" subtype="performance">prometieron de no quitarselos, hasta q<am>.ͤ</am><ex>ue</ex> todos
+<lb/>cinco se los tirasen ã S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name></seg>, <choice><abbr>q<am>.ͤ</am>p<am>.ͬ</am></abbr><expan>q<ex>ue</ex>p<ex>or</ex></expan></choice> <seg type="cleric" subtype="confession">sus
+<lb/>pecados</seg> <seg type="rhetoric" subtype="anaphor">el uno <seg type="lexis" subtype="body">muriõ</seg> en <place>Sevilla</place>, y el Otro en
+<lb/><place>Lisbona</place> y el Otro en <place>Inglaterra</place></seg>u, e<am>̄</am> asi mu
+<lb rend="hyphen" break="no"/>rieron derramados, e<am>̄</am> se mandaron enterrar
+<lb/>con sus <seg type="material">Collares de Oro</seg>, <seg type="rhetoric" subtype="invective"><am>̄</am> <person>los frayles</person> con la
+<lb/>codicia, despues de enterrarlo le quitaron el <seg type="material"> collar=</seg></seg></ab><ab n="3300">Yno quedaron en <place>la Atarazana</place> dela
+<lb/><place>casa</place> de mi <seg type="parent" subtype="father">S<am>.ͦͬ</am><ex>eñor</ex> el Maestre</seg>, sino mi <person>Marido</person>
+  
+<pb n="4v"/>y <seg type="I">Yo</seg>:</ab><ab n="3400">y en esto <seg type="lexis" subtype="body">murio</seg> el mui alto y mui es
+<lb rend="hyphen" break="no"/>clarecido S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Henrrique</name> de mui S<am>.ͭͣ</am><ex>anta</ex>
+<lb/>y <seg type="laic" subtype="chronicle">esclarecida memoria</seg>, y mandõ ensu <seg type="laic" subtype="testament"/>testa
+<lb rend="hyphen" break="no"/>m<am>.ͭͦ</am><ex>ento</ex> q<am>.ͤ</am><ex>ue</ex> nos sacasen dela prision, e<am>̄</am> nos torna
+<lb rend="hyphen" break="no"/>sen todo lo <choice><abbr>nr<am>̄</am>o</abbr><expan>n<ex>uest</ex>ro</expan></choice></ab><ab n="3500"> e<am>̄</am> <seg type="I">Yo</seg> quedé en <place>casa</place> de mi S<am>.ͣ</am><ex>eñora</ex>
+<lb/><person>tia</person> D<am>.ͣ</am><ex>oña</ex> <name>Maria Garcia Carrillo</name>, e<am>̄</am> <person>mi Marido</person>
+<lb/>fue<am>̄</am> a <seg type="influence">demandar</seg> <seg type="lexis" subtype="material">sus vienes</seg>, y los q<am>.ͤ</am><ex>ue</ex> lo teni
+<lb rend="hyphen" break="no"/>an preciaronlo poco, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> no tenia estado, ni
+<lb/>manera p<am>.ͣ</am><ex>ara</ex> los poder <seg type="influence">demandar</seg>, e<am>̄</am> los derechos
+<lb/>ya sabeis como depender ã los Lugares q<am>.ͤ</am><ex>ue</ex> hãn
+<lb/>conq<am>.ͤ</am><ex>ue</ex> se <seg type="influence">demandar</seg>,</ab><ab n="3600"> e<am>̄</am> asi perdiose mi marido, 
+<lb/>e<am>̄</am> andubo <seg type="lexis" subtype="time">siete años p<am>.ͬ</am><ex>or</ex> el mundo</seg>, como desben
+<lb rend="hyphen" break="no"/>turado, <seg type="rhetoric" subtype="amplification">y nunca hallõ Pariente, ni Amigo q<am>.ͤ</am><ex>ue</ex>
+<lb/>bien le hiciese, ni haviese piedad de El</seg>, e<am>̄</am></ab><ab n="3700"> <seg type="lexis" subtype="time">ã
+<lb/>cabo de siete años</seg>, estando <seg type="I">Yo</seg> en <place>casa</place> de mi S<am>.ͬͣ</am><ex>ora</ex> mi <person>tia</person> D<am>.ͣ</am><ex>oña</ex> <name>Maria</name> Garcia Carrillo, dije
+<lb rend="hyphen" break="no"/>ron ã <person>mi Marido</person>, q<am>.ͤ</am><ex>ue</ex> estaba em <place>Badajoz</place> con 
+<lb/>su <person>tio</person> <name>Lope <choice><abbr>Fer<am>̄</am>nz</abbr><expan>Fern<ex>ande</ex>z</expan></choice> de Padilla</name> en <seg type="laic" subtype="relación">la Guerra de 
+<lb/>Portugal</seg>, q<am>.ͤ</am><ex>ue</ex> <seg type="I">yo</seg> <seg type="lexis" subtype="material">estaba mui bien andante, q<am>.ͤ</am><ex>ue</ex> me
+<lb/>havian echo mucho bien mis Parientes</seg>, Caval
+<lb rend="hyphen" break="no"/>gõ <seg type="intertext" subtype="biblical">encima de su mula, q<am>.ͤ</am><ex>ue</ex> <seg type="material">valia mui pocos di
+<lb rend="hyphen" break="no"/>neros</seg>, e<am>̄</am> lo q<am>.ͤ</am><ex>ue</ex> traia <seg type="material">vestido</seg> no valia <seg type="material">treinta 
+<lb/><choice><abbr>mr<am>̄</am>s</abbr><expan>m<ex>a</ex>r<ex>avedi</ex>s</expan></choice></seg></seg>; y entrase p<am>.ͬ</am><ex>or</ex> la puerta de mi S<am>.ͬͣ</am><ex>eñora</ex> mi <person>tia</person>,
+<lb/></ab><ab n="3800"><seg type="I">yo</seg> como havia savido, qu<am>.ͤ</am><ex>ue</ex> <person>mi Marido</person> <seg type="rhetoric" subtype="amplification">
+<lb rend="hyphen" break="no"/>va perdido p<am>.ͬ</am><ex>or</ex> el Mundo</seg>, trate <am>̄</am> con mi S<am>.ͣ</am><ex>eñora</ex> mi
+<lb/><person>tia</person><note resp="hkbobs">Leonor's reasoning is that because her husband comes home penniless, it is her responsibility to engage with her aunt and attempt to improve the family's situation.</note>, herm<am>.ͣ</am><ex>ana</ex> de mi S<am>.ͣ</am><ex>eñora</ex> <seg type="parent" subtype="mother">Madre</seg>, q<am>.ͤ</am><ex>ue</ex> le deci
+
+<pb n="5r"/>an <name>D<am>.ͣ</am><ex>oña</ex> theresa <choice><abbr>fer<am>̄</am>nz</abbr><expan>fern<ex>andez</ex></expan></choice> Carrillo</name> (estaba en la
+<lb/><place><choice><abbr>Or<am>̄</am>n</abbr><expan>Or<ex>de</ex>n</expan></choice> de Guadalajara</place>, q<am>.ͤ</am><ex>ue</ex> la hicieron mis Bisa
+<lb rend="hyphen" break="no"/>buelos, e<am>̄</am> <seg type="lexis" subtype="material">dotaron precio</seg> p<am>.ͣ</am><ex>ara</ex> <seg type="laic" subtype="chronicle">quarenta Ricas Hem
+<lb rend="hyphen" break="no"/>bras de su Linaje</seg>, q<am>.ͤ</am><ex>ue</ex> viviesen en aquella <choice><abbr>Or<am>̄</am>n</abbr><expan>Or<ex>de</ex>n</expan></choice>)
+<lb/></ab> <ab n="3900"><seg type="Lexis" subtype="apellative">embile ã demandar le plugiese q<am>.ͤ</am><ex>ue</ex> <seg type="I">yo</seg> fuese aco
+<lb rend="hyphen" break="no"/>gida en aquella <choice><abbr>Or<am>̄</am>n</abbr><expan>Or<ex>de</ex>n</expan></choice>,</seg> p<am>.̾</am><ex>ues</ex> <seg type="clerical" subtype="confesion"><am>.ͬ</am><ex>or</ex> mis pecados</seg> mi Ma
+<lb rend="hyphen" break="no"/>rido e<am>̄</am> <seg type="I"> yo</seg> oramos perdidos, y ella, y toda la <choice><abbr>Or<am>̄</am>n</abbr><expan>Or<ex>de</ex>n</expan></choice>
+<lb/>alcanzaronlo en dicha, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> <seg type="laic" subtype="autobiography">mi S<am>.ͣ</am><ex>eñora</ex> <seg type="parent" subtype="mother">Madre</seg> se
+<lb/>havia criado en <seg type="lexis" subtype="space">aquellos monasterios</seg>, y de
+<lb/>alli la sacõ el <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Pedro</name>, e<am>̄</am> la diõ a mi Pa
+<lb rend="hyphen" break="no"/>dre q<am>.ͤ</am><ex>ue</ex> casase con ella</seg>, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> ella era herm<am>.ͣ</am><ex>ana</ex><lb/>de <name>Gonzalo Diaz Carrillo</name>, e<am>̄</am> de <name>Diego Carrillo</name>
+<lb/>fijos de D<am>.ᷠ</am><ex>on</ex> <name>Juan <choice><abbr>fer<am>̄</am>nz</abbr><expan>fern<ex>andez</ex></expan></choice> Carrillo</name>, e<am>̄</am> de D<am>.ͣ</am><ex>oña</ex> <name>San
+<lb rend="hyphen" break="no"/>cha de Roxas</name>,</ab> <ab n="4000">e<am>̄</am> <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> estos mis tios havian
+<lb/>temor del dicho S<am>.ͬ</am><ex>eñor</ex> D<am>.ᷠ</am><ex>on</ex> <name>Pedro</name> q<am>.ͤ</am><ex>ue</ex> havia mu
+<lb rend="hyphen" break="no"/>erto y desterrado muchos <seg type="laic" subtype="chronicle">de este linaje</seg>, y ã
+<lb/>mi <person>Aguelo</person> <seg type="lexis" subtype="material">le havia derrivado las <place>casas</place>s, e<am>̄</am> da
+<lb rend="hyphen" break="no"/>do q<am>.ͭͦ</am><ex>uanto</ex> tenia ã otrie</seg>, estos <person>mis tios</person> fueronse
+<lb/>dende ã servir al <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Enrrique</name> (quan
+<lb rend="hyphen" break="no"/>do era Conde) p<am>.ͬ</am> este enojo;</ab> <ab n="4100"><seg type="laic" subtype="autobiography">Y naci en <place>Calata
+<lb rend="hyphen" break="no"/>yud</place> en <place>casa</place> del S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person></seg>, <seg type="laic" subtype="geneology">q<am>.ͤ</am><ex>ue</ex> fueron las S<am>.ͬͣ̾</am><ex>eñoras</ex>
+<lb/>Infantas sus <seg type="lexis" subtype="daughter">fijas</seg> mis Madrinas</seg>, y truje
+<lb rend="hyphen" break="no"/>ronme con ellas al <place>Alzacar de Segovia</place> co mi
+<lb/>S<am>.ͬͣ</am><ex>eñora</ex> <seg type="parent" subtype="mother">Madre</seg> <seg type="lexis" subtype="body">q<am>.ͤ</am><ex>ue</ex> ay muriõ</seg>, <seg type="rhetoric" subtype="amplification">y quede <seg type="I">yo</seg> de edad
+<lb/>q<am>.ͤ</am> nunca la conoci</seg><note resp="HKBOBS">Leonor will mention the death of her mother twice in this document, clearly an event that saddens her. It is also interesting to note that only now does Leonor mention the circumstances of her own birth, this is a bit like an "in media res" situation</note>,</ab> <ab n="4200">y despues q<am>.ͤ</am><ex>ue</ex> mi marido
+<lb/>vino, como dicho es, fuese ã <place>casa</place> de mi S<am>.ͣ</am><ex>eñora</ex>
+
+<pb n="5v"/><person>tia</person>, q<am>ͤ</am><ex>ue</ex> era en Cor<am>ᵇͣ</am><ex>doba</ex> junto ã <place>Sant Hipolito</place></ab> <ab n="4300">y
+<lb/>ã mi, y ã mi marido me acojiõ eñ <place>unas Ca
+<lb rend="hyphen" break="no"/>sas</place>, junto ãlas suyas,</ab><ab n="4400"> y viendonos con poco
+<lb/>descanso, fúe<am>̄</am> una oracion ãla <seg type="lexis" subtype="authority">Virgen S<am>ͭ.ͣ</am><ex>anta</ex> M<am>.ͣ</am><ex>aría</ex>
+<lb/>de Belen</seg> <seg type="lexis" subtype="time">treinta dias</seg>, cada noche <seg type="clerical" subtype="prayer">rezaba
+<lb/>tresz<am>.ͭͣ̾</am><ex>treszientas</ex> Aves Marias de Rodrillas</seg>, <seg type="lexis" subtype="apellative"><am>.ͬͣ</am><ex>ara</ex> q<am>.ͤ</am><ex>ue</ex> pu
+<lb rend="hyphen" break="no"/>siese en <seg type="lexis" subtype="body">Corazon</seg> ã mi S<am>.ͬͣ</am><ex>eñora</ex>, q<am>.ͤ</am><ex>ue</ex> consintiese abrir
+<lb/>un Postigo ã sus <place>casas</place>s,</seg></ab><ab n="4500"> y <seg type="lexis" subtype="time">dos dias antes que
+ <lb/>acabase <seg type="clerical" subtype="prayer">La Oracion</seg></seg>, <seg type="lexis" subtype="apellative">demandé ãla S<am>.ͣ</am><ex>eñora</ex> mi <person>tia</person>
+<lb/>q<am>.ͤ</am><ex>ue</ex> me dejase abrir aquel postigo, p<am>.ͬ</am><ex>or</ex> q<am>.ͤ</am><ex>ue</ex> no vini
+<lb rend="hyphen" break="no"/>esemos p<am>.ͬ</am><ex>or</ex> la calle ã comer ã su mesa, entre
+<lb/>tantos Cav<am>.ͬͦ̾</am><ex>alleros</ex> q<am>.ͤ</am><ex>ue</ex> havia en Cor<am>ᵇͣ</am><ex>doba</ex>,</seg></ab><ab n="4600"> e<am>̄</am> la su <choice><abbr>mr<am>̄</am>d</abbr><expan>m<ex>e</ex>r<ex>ce</ex>d</expan></choice>
+<lb/>me respondiõ le placia, e<am>̄</am> <seg type="I">yo</seg> fui mui consola-
+<lb rend="hyphen" break="no"/>da</ab> <ab n="4700">e<am>̄</am> q<am>.ͩͦ</am><ex>uedo</ex> otro dia quise abrir el postigo, criad
+<lb rend="hyphen" break="no"/>das suyas le havian buelto su <seg type="lexis" subtype="body">Corazon</seg>, q<am>.ͤ</am><ex>ue</ex> no
+<lb/>lo hiziese, y fui tan desconsolada, q<am>.ͤ</am><ex>ue</ex> perdi la
+<lb/>paciencia, e<am>̄</am> la q<am>.ͤ</am><ex>ue</ex> me hizo mas contradicion
+<lb/>con la S<am>ͬͣ</am><ex>eñora</ex> mi <person>tia</person> se murió en mis manos, co
+<lb rend="hyphen" break="no"/>miendose la lengua,</ab> <ab n="4800">e<am>̄</am> otro dia, q<am>.ͤ</am><ex>ue</ex> no quedaba<lb/>mas q<am>.ͤ</am><ex>ue</ex> un dia de acabar <seg type="intertext" subtype="biblical">mi oracion</seg>, <seg type="lexis" subtype="time">Sabado</seg>, 
+<lb/>soñaba pasando p<am>.ͬ</am><ex>or</ex> <place>Sant Hipolito</place>, <seg type="lexis" subtype="time">tocando
+<lb/>el Alva</seg>,</ab> <ab n="4900">vi en <seg type="lexis" subtype="building">la pared delos Corrales</seg> <seg type="rhetoric" subtype="symbol">un ar
+<lb rend="hyphen" break="no"/>co mui grande, y mui alto,</seg> e<am>̄</am> que entraba
+<lb/>por alli, y cojía <seg type="lexis" subtype="nature">flores dela Sierra</seg>, y veia
+<lb/><seg type="lexis" subtype="nature">muy grań Cielo</seg>, y en esto desperté,</ab> <ab n="5000"> e<am>̄</am> obe es
+<lb rend="hyphen" break="no"/>peranza enla <seg type="lexis" subtype="authority">virgen</seg> S<am>ͭͣ</am><ex>anta</ex> <name>Maria</name> q<am>.ͤ</am><ex>ue</ex> me da
+
+<pb n="6r"/><lb rend="hyphen" break="no"/>ria <place>casa</place></ab> <ab n="5100"><seg type="laic" subtype="chronicle">En esto vino un robo dela Juderia</seg>
+<lb/>y tomé un <person>niño huerfano</person>, q<am>.ͤ</am><ex>ue</ex> tenia, <choice><abbr>p<am>.ͣ</am>q<am>.ͤ</am></abbr><expan>p<e>ara</e>q<ex>ue</ex></expan></choice> fuese 
+<lb/>instruido en la feé, hizelo <seg type="intertext" subtype="biblical">baptizar</seg> <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> fue
+<lb rend="hyphen" break="no"/>se instruido en la feé:</ab><ab n="5200">y un dia viniendo con
+<lb/>mi S<am>.ͣ</am><ex>eñora</ex> <person>tia</person> de misa de San Hipolito, aquellos
+<lb/>Corrales, done soñe<am>̄</am> <seg type="I">yo</seg> q<am>.ͤ</am><ex>ue</ex> <seg type="clerical" subtype="vision">havia el arco gran
+<lb rend="hyphen" break="no"/>de</seg>, y le suplique ã mi S<am>.ͣ</am><ex>eñora</ex> <person>tia</person> <name>D<am>.ͣ</am><ex>oña</ex> Mencia Ca
+<lb rend="hyphen" break="no"/>rrillo</name>, q<am>.ͤ</am><ex>ue</ex> fuese servida de comprar aquel si
+<lb rend="hyphen" break="no"/>tio p<am>.ͣ</am><ex>ara</ex> mi, pues havia <seg type="lexis" subtype="time">diez, y siete años</seg> que
+<lb/>estaba en su compañia, y me las comprõ;</ab> <ab n="5200">dolas
+<lb/>con la condicion, q<am>.ͤ</am><ex>ue</ex> se hiciese una
+<lb/><seg type="lexis" subtype="space">capellania</seg> impuesta sobre las dichas <place>casas</place>s
+<lb/>p<am>.ͬ</am><ex>or</ex> el alma del S<am>.ͦͬ</am><ex>eñor</ex> <person>Rey</person> D<am>.ᷠ</am><ex>on</ex> <name>Alfonso</name>, q<am>.ͤ</am><ex>ue</ex> hizo
+<lb/>aquella <place>Iglesia</place> al <choice><abbr>nr<am>̄</am>e</abbr><expan>n<ex>omb</ex>re</expan></choice> de Sant Hipolito, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>
+<lb/>naciõ el, ã tal dia, </ab> <ab n="5300">e<am>̄</am> tienen estos capellanes
+<lb/>otros seis, õ siete capellanias de <name>D<am>.ᷠ</am><ex>on</ex> Gonz<am>.ͦ</am><ex>alo</ex>
+<lb/><choice><abbr>fer<am>̄</am>z</abbr><expan>fern<ex>ande</ex>z</expan></choice></name>, <person>Marido</person> dela dicha <person>S<am>.ͣ</am><ex>eñora</ex> mi tia</person>, e<am>̄</am> D<am>.ᷠ</am><ex>on</ex> <seg rend="cr">Al<am>.ͦ</am><ex>onzo</ex></seg> 
+<lb/><choice><abbr>fer<am>̄</am>z</abbr><expan>fern<ex>ande</ex>z</expan></choice> S<am>.ͦͬ</am><ex>eñor</ex> de Aguilar, e<am>̄</am> del Mariscal sus <seg rend="cr">fijos</seg>
+<lb/>entonzes echa esta <choice><abbr>mr<am>̄</am>d</abbr><expan>m<ex>e</ex>r<ex>ce</ex>d</expan></choice> <seg type="clerical" subtype="theatrical">alze <seg type="lexis" subtype="body">los ajos</seg> ã <seg type="authority" subtype="God">Dios</seg>,
+<lb/>y ãla <seg type="lexis" subtype="authority">Virgen</seg> <name>Maria</name>, dandole gracias p<am>.ͬ</am><ex>or</ex> ello;</seg></ab>
+<lb/><ab n="5400">y ende llegõ ã mi <person>un criado</person> del <choice><abbr>Mr<am>̄</am>e</abbr><expan>M<ex>aest</ex>re</expan></choice> mi S<am>.ͦͬ</am><ex>eñor</ex>
+<lb/>e<am>̄</am> <seg type="parent" subtype="father">Padre</seg>, q<am>.ͤ</am><ex>ue</ex> vive con <name>Martin <choice><abbr>fer<am>̄</am>z</abbr><expan>fern<ex>ande</ex>z</expan></choice> Alcayde de
+<lb/> los Donzeles</name>, q<am>.ͤ</am><ex>ue</ex> alli estaba <seg type="rhetoric" subtype="orality">oyedo misa</seg>, y
+<lb/>enbiele ã pedir con aquel <person>criado</person> suyo, <choice><abbr>p<am>.ͣ</am>q<am>.ͤ</am></abbr><expan>p<e>ara</e>q<ex>ue</ex></expan></choice>
+<lb/>como <seg type="lexis" subtype="family">Pariente</seg> le diese las gracias ãla <person>S<am>.ͣ</am><ex>eñora</ex> 
+<lb/>mi tia</person> dela <choice><abbr>mr<am>̄</am>d</abbr><expan>m<ex>e</ex>r<ex>ce</ex>d</expan></choice> q<am>.ͤ</am><ex>ue</ex> me havia echo,</ab><ab n="5500">y <seg type="clerical" subtype="vision">ã El
+  
+<pb n="6v"/>plugiole mucho, y asi lo hizo con buena mensura
+<lb/>diciendoles q<am>.ͤ</am><ex>ue</ex> esta <choice><abbr>mr<am>̄</am>d</abbr><expan>m<ex>e</ex>r<ex>ce</ex>d</expan></choice> recevia el p<am>.ͬ</am><ex>or</ex> suya:</seg></ab> <ab n="5600">e<am>̄</am> da
+<lb rend="hyphen" breal="no"/>dome la Posecion abri una Puerta en el sitio, 
+<lb/>y Lugar a<am>.ͤ</am><ex>ue</ex> havia visto el arco, q<am>.ͤ</am><ex>ue</ex> la <seg type="lexis" subtype="authority">Virgen</seg>
+<lb/><name>Maria</name> me mostrõ,</ab> <ab n="5700">e<am>̄</am> ã <person>los Abades</person> les pesõ q<am>.ͤ</am>me 
+<lb/>entregasem el dicho Solar, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> <seg type="I">Yo</seg> era de gran
+<lb rend="hyphen" breal="no"/>de Linaje, y q<am>.ͤ</am><ex>ue</ex> mis hijos serian Granes, y
+<lb/>ellos eran Abades, y q<am>.ͤ</am><ex>ue</ex> no havian menester
+<lb/>Grandes Cav<am>.ͬͦ̾</am><ex>alleros</ex> cabe si,</ab> <ab n="5800">y <seg type="I">Yo</seg> tubelo p<am>.ͬ</am><ex>or</ex> buen
+<lb/>proberbio, y dijeles esperaba en <seg type="lexis" subtype="God">Dios</seg> q<am>.ͤ</am><ex>ue</ex> asi se
+<lb rend="hyphen" break="no"/>ria, y concerteme con ellos de tal manera, q<am>.ͤ</am><ex>ue</ex>
+<lb/>abri la Puerta en aquel Lugar donde <seg type="I">yo</seg> que
+<lb rend="hyphen" break="no"/>ria,</ab> <ab n="5900">e<am>̄</am> tengo <choice><abbr>q<am>.ͤ</am>p<am>.ͬ</am></abbr><expan>q<ex>ue</ex>p<ex>or</ex></expan></choice> aquella Caridad q<am>.ͤ</am><ex>ue</ex> hize en
+<lb/>criar aquel Huerfano en la feé de Jesu Chris
+<lb/>to, <seg type="authority" subtype="God">Dios</seg> me ayudo ã darme aquel comienzo de <place>Casa</place>,</ab> <ab n="6000">e<am>̄</am> de antes de esto, <seg type="I">yo</seg> havia ido treinta
+<lb rend="hyphen" break="no"/>tecida, q<am>.ͤ</am><ex>ue</ex> es en la Orden de S<am>.ᷠ</am><ex>an</ex> Pablo de Cor<am>.ᵇͣ</am><ex>doba</ex>
+<lb/>con aguas, y con vientos descalza, e<am>̄</am> rezabale
+<lb/>63 vezes esta oracion q<am>.ͤ</am><ex>ue</ex> se sigue con 66
+<lb/>Aves Marias, en reverencia de los 66 años 
+<lb/>q<am>.ͤ</am><ex>ue</ex> ella viviõ con amargura en este mundo,
+<lb/><choice><abbr>p<am>.ͣ</am>q<am>.ͤ</am></abbr><expan>p<ex>ara</ex>q<ex>ue</ex></expan></choice> Ella me diese <place>Casa</place>, e<am>̄</am> la me diõ <place>Casa</place>,
+<lb/>y <place>Casas</place>s, p<am>.ͬ</am><ex>or</ex> su misericordia, mejores q<am>.ͤ</am><ex>ue</ex> <seg type="I">yo</seg>
+<lb/>las merecia,</ab> <ab n="6100">y comienza la oracion, Ma
+<lb rend="hyphen" break="no"/>dre S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name> --de vos gran dolor havia 
+<lb/><choice><abbr>vr<am>̄</am>o</abbr><expan>v<ex>uest</ex>ro</expan></choice> fijo bien criado-vistelo atormentado
+
+<pb n="7r"/>
+<lb/>con su gran tribulacion, amorteciose vos el Co
+<lb rend="hyphen" break="no"/>razon, despues <seg rend="cr">desutribulacion</seg>, puso vos con
+<lb rend="hyphen" break="no"/>solacion, ponedle vos ãmi S<am>.ͬͣ</am><ex>eñora</ex>, que sabeis mi
+<lb/>dolor:</ab><ab n="6200">En este tiempo plugiese q<am>.ͤ</am><ex>ue</ex> el Ayudo
+<lb/>de mi S<am>.ͣ</am><ex>eñora</ex> mi <person>tia</person>, y de labor <seg rend="cr">demis manoshize</seg> en 
+<lb/>aquel corral dos Palacios, y una huerta, e<am>̄</am> otras
+<lb/>dos, õ tres <place>casas</place>s p<am>.ͣ</am><ex>ara</ex> servicio=</ab> <ab n="6300">En este tiempo 
+<lb/>vino una pestilencia mui cruel, y mi S<am>ͣ</am><ex>eñora</ex> no
+<lb/>queria salir de la Ciu<am>.ͩ</am><ex>dad</ex>, e<am>̄</am> <seg type="I">yo</seg> demandele <choice><abbbr>mr<am>̄</am>d</abbbr><expan>m<ex>e</ex>r<ex>ce</ex>d</expan></choice>
+<lb/>huir con mis hijuelos, q<am>.ͤ</am><ex>ue</ex> no se <seg rend="int">ME</seg> muriesen, y ã
+<lb/>Ella no le plugõ, mas diome liz<am>.ͣ</am><ex>encia</ex>,</ab> <ab n="6400">y <seg type="I">Yo</seg> parti
+<lb rend="hyphen" break="no"/>me de Cordoba, y fuimi ã S<am>.ͭͣ</am><ex>anta</ex> Ella con mis 
+<lb/>hijos, y el Huerfano q<am>.ͤ</am><ex>ue</ex> <seg type="I">Yo</seg> crie</ab> <ab n="6500">vivia en S<am>ͭͣ</am><ex>anta</ex>
+<lb/>Ella, y aposentome en su <place>Casa</place>, y todos los ve
+<lb rend="hyphen" break="no"/>zinos dela <place>Villa</place> se holgaron mucho de mi
+<lb/>ida, y recivieronme con mucho grasajo, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>
+<lb/>havian sido criados del S<am>.ͬ</am><ex>eñor</ex> mi <seg type="parent" subtype="father">Padre</seg>, y asi
+<lb/>me dieron la mejor <place>casa</place> q<am>.ͤ</am><ex>ue</ex> havia en el Lu
+<lb rend="hyphen" breal="no"/>gar, q<am>.ͤ</am><ex>ue</ex> era la de Fern<am>.ͩͦ</am><ex>ando</ex> Alonso Mediabarba,</ab>
+<lb/><ab n="6600">y estando sin sospecha entró mi S<am>.ͣ</am><ex>eñora</ex> <person>tia</person> con
+<lb/>sus hijas, e<am>̄</am> <seg type="I">yo</seg> aparteme ã una quadra pe
+<lb rend="hyphen" break="no"/>quena, y sus <seg type="lexis" subtype="daughters">hijas</seg>, mis Primas nunca es
+<lb rend="hyphen" break="no"/>taban bien con migo, p<am>.ͬ</am><ex>or</ex> el bien q<am>.ͤ</am><ex>ue</ex> me hacia
+<lb/>su <seg type="parent" subtype="mother">Madre</seg>,</ab> <ab n="6700">e <seg type="rhetoric" subtype="pathos">dende alli pasé tantas amar
+<lb rend="hyphen" break= "no"/>guras, q<am>.ͤ</am><ex>ue</ex> <seg type="intertext" subtype="metatext">no se podian escrivir,</seg></seg></ab> <ab n="6800">y vino alli
+<lb/><seg tupe="lexis" subtype="body">Pestilencia</seg><note resp="hkbobs">Leonor is referring to the Bubonic Plague</note>, y asi se partiõ mi S<am>.ͣ</am><ex>eñora</ex> con su gen
+
+<pb n="7v"/>
+<lb rend="hyphen" break="no"/>te p<am>.ͣ</am><ex>ara</ex> <place>Aguilar</place>, y llevome consigo aunq<am>.ͤ</am><ex>ue</ex> asaz, p<am>.ͣ</am><ex>ara</ex>
+<lb/><seg type="lexis" subtype="daughter">sus hijas</seg>, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> su <seg type="lexis" subtype="mother">Madre</seg> me queria mucho, y
+<lb/><seg type="rhetoric" subtype="authority">hacia grande quenta de mi,</seg></ab> <ab n="6900">e<am>̄</am> <seg type="I">yo</seg> havia enbia
+<lb rend="hyphen" break="no"/>do aquel huerfano, q<ex>.ͤ</ex><am>ue</am> crie ã <place>Ezija</place>; La noche
+<lb/>q<am>.ͤ</am><ex>ue</ex> llegamos ã <place>Aguilar</place> entrõ de <place>Ezija</place> <person>el Mozo</person>
+<lb/>con <seg type="lexis" subtype="body">dos Landres en la garganta, y tres car
+<lb rend="hyphen" break="no"/>boncros en el rostro, con mui grande calentu
+<lb rend="hyphen" break="no"/>ra,</seg></ab> <ab n="7000">y q<am>.ͤ</am><ex>ue</ex> estaba alli D<am>.</am><ex>on</ex> <name>Alfonso <choice><abbr>Fer<am>̄</am>n<am>̄</am></abbr><expan>Fern<ex>ande</ex>z</expan></choice></name> <seg type="Lexis" subtype="family">mi Pri
+<lb rend="hyphen" break="no"/>mo</seg>, <person>y su muger</person>, y toda su <place>casa</place>, y aunq<am>.ͤ</am><ex>ue</ex> todas
+<lb/>ellas eran <seg type="lexis" subtype="family">mis Sobrinas</seg>, y mis Amigas, vi
+<lb rend="hyphen" break="no"/>nieron ã mi en sabiendo q<am>.ͤ</am><ex>ue</ex> <seg type="lexis" subtype="person">mi criado</seg> venia
+<lb/>asi, <seg type="laic" subtype="performance">dixeronme: <choice><abbr>Vr<am>̄</am>o</abbr><expan>V<ex>uest</ex>ro</expan></choice> Criado <name>Alonso</name> viene con pesti
+<lb rend="hyphen" break="no"/>lencia, y si <name>D<am>.</am><ex>on</ex> Alonso <choice><abbr>Fer<am>̄</am>n<am>̄</am></abbr><expan>Fern<ex>ande</ex>z</expan></choice></name> lo ve<am>̄</am>, harã ma
+<lb rend="hyphen" break="no"/>ra villas, estando con tal <seg type="lexis" subtype="body">Emfermedad</seg>,</seg></ab> <ab n="7100">y el
+<lb/><seg type="lexis" subtype="body">dolor</seg> q<am>.ͤ</am><ex>ue</ex> a mi <seg type="lexis" subtype="body">corazon</seg> llegõ, bien lo podeis en
+<lb rend="hyphen" break="no"/>tender, <seg type="intertext" subtype="metatext"><seg type="rhetoric" subtype="orality">quien esta historia oyere</seg></seg>, q<am>.ͤ</am><ex>ue</ex> <seg type="I">yo</seg> venia
+<lb/>corrida, y amarga, y en pensar <choice><abbr>q<am>.ͤ</am>p<am>.ͬ</am></abbr><expan>q<ex>ue</ex>p<ex>or</ex></expan></choice> mi ha
+<lb rend="hyphen" break="no"/>via entrado <seg type="rhetoric" subtype="pathos">tan gran dolencia</seg> en aquella Ca
+<lb rend="hyphen" break="no"/>sa,</ab> <ab n="7200">fúe<am>̄</am> llamar un criado del S<am>.ͬ</am><ex>eñor</ex> mi <seg type="parent" subtype="father">Padre</seg>
+<lb/> <seg type="lexis" subtype="person">el Maestre,</seg> q<am>.ͤ</am><ex>ue</ex> se llamaba <seg type="lexis" subtype="name">Miguel de S<am>.ͭͣ</am><ex>anta</ex>Ella</seg>
+<lb/>e<am>̄</am> roguele q<am>.ͤ</am><ex>ue</ex> llevase <person>aquel mozo</person> ã su <place>casa</place>, y
+<lb/><seg type="rhetoric" subtype="metaphor">el cuitado</seg> hubo miedo,</ab> <ab n="7300">y dijo: S<am>.ͬͣ</am><ex>eñora</ex> como lo
+<lb/>llevaré con <seg type="lexis" subtype="body">pestilencia, q<am>.ͤ</am><ex>ue</ex> me mate?</seg>/ab> <ab n="7400">y dijele:
+<lb/>hijo no querra <seg type="authority" subtype="God">Dios</seg>:</ab> <ab n="7500">y El con verguenza
+<lb/>de mi llevolo,</ab> <ab n="7600">e<am>̄</am> <seg type="cler" subtype="confession">por mis Pecados <number>treze</number> Perso
+<lb rend="hyphen" break="no"/>nas, q<am>.ͤ</am><ex>ue</ex> de noche lo velaban, <seg type="lexis" subtype="body">todos murieron</seg></seg>
+
+<pb n="8r"/><lb/>y <seg type="I">yo</seg> facia una oracion, q<am>.ͤ</am><ex>ue</ex> havia oydo, q<am>.ͤ</am><ex>ue</ex> ha
+<lb rend="hyphen" break="no"/>via una monja ante un cruzifixo, pareze q<am>.ͤ</am><ex>ue</ex>
+<lb/>Ella era mui devota de <seg type="rehtoric" subtype="authority"><seg type="lexis" subtype="God">Jesu Christo</seg></seg>, y <seg type="rhetoric" subtype="orality">diz, q<am>.ͤ</am><ex>ue</ex>
+<lb/>despues q<am>.ͤ</am><ex>ue</ex> havia oydo <seg type="lexis" subtype="time">Maytinez</seg></seg>, beniase an
+<lb rend="hyphen" break="no"/>te. un cruzifixo, y rezaba de rodillas siete mil
+<lb/>vezes:</ab><ab n="7600">Piadoso fijo dela virgin, venzate pie
+<lb rend="hyphen" break="no"/>dad:y <seg rend="ul">q<am>.ͤ</am><ex>ue</ex> una noche estando la monja cerca
+<lb/>donde ella estaba q<am>.ͤ</am><ex>ue</ex> oyõ q<am>.ͤ</am><ex>ue</ex> le respondiõ el
+<lb/>cruzifixo,</seg></ab><ab n="7700">e dijo:<seg rend="ul">Piadoso me llamaste Piadoso
+<lb/>te sere<am>̄</am>:</seg></ab> <ab n="7800">e<am>̄</am> <seg type="I">Yo</seg> abie grande devocion en estas pa
+<lb rend="hyphen" break="no"/>labras, rezaba cada noche esta oracion, rog<am>ͩͦ</am><ex>ando</ex>
+<lb/>ã <seg type="authority" subtype="God">Dios</seg> me quisiese librar ã mi y ã mis fijos,</ab>        
+<lb/><ab n="7900">e<am>̄</am> si alguno obiese de llevar, llebase, el mayor p<am>.ͬ</am><ex>or</ex>
+<lb/>q<am>.ͤ</am><ex>ue</ex> era <seg type="lexis" subtype="body">mui doliente</seg>;</ab> <ab n="8000">e<am>̄</am> plugõ ã <seg type="authority" subtype="God">Dios</seg> q<am>.ͤ</am><ex>ue</ex> una noche
+<lb/>no fallaba q<am>.ᷠ</am><ex>uien</ex> velase aquel <person>Mozo Doliente</person>, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>
+<lb/>havian <seg type="lexis" subtype="body">muerto</seg> todos losq<am>.ͤ</am><ex>ue</ex> hasta entoncesle havian velado</ab> <ab n="8100">e<am>̄</am> vino ã mi aquel mi fijo, q<am>.ͤ</am><ex>ue</ex>le
+<lb/>decian <name>Juan <choice><abbr>Fern<am>̄</am>z</abbr><expan>Fern<ex>ande</ex>z</expan></choice> de Henestrosa</name>, como. su
+<lb/><seg type="lexis" subtype="family">Abuelo</seg>, q<am>.ͤ</am><ex>ue</ex> era <time>de hedad de doze años, y quatro
+<lb/>meses</time><note resp="HKBOBS">Leonor indicates to the month her son's age. It's unsusual and also remarkable</note></ab><ab n="8200"> e<am>̄</am> dixome: <choice><abbr><am>.̾</am>S<am>.ͬͣ</am></abbr><expan><ex>Santa</ex> S<ex>eñora</ex></expan></choice><seg rend="cr">no ay q<am>.ᷠ</am><ex>uien</ex> vele ã <name>Alonso</name> esta no</seg>
+<lb rend="hyphen" break="no"/>che,</ab> <ab n="8300">e<am>̄</am> <seg type="rhetoric" subtype="performance">dijele: velarlo vos por Amor de
+<lb/><seg type="authority" subtype="God">Dios</seg>,</seg></ab> <ab n="8400"><seg type="rhetoric" subtype="performance">y respondiome: S<am>ͬͣ</am><ex>eñora</ex> agora q<am>.ͤ</am><ex>ue</ex> hãn muerto
+<lb/>otros quereis q<am>.ͤ</am><ex>ue</ex>me mate? e<am>̄</am> <seg type="I">yo</seg> dixele: p<am>.ͬ</am><ex>or</ex> la cari
+<lb rend="hyphen" break="no"/>dad que <seg type="I">yo</seg> fago.</seg></ab> <ab n="8500"><seg type="authority" subtype="God">Dios</seg> habrã piedad de mi; e<am>̄</am>
+<lb/><seg type="lexis" subtype="son">mi hijo</seg> por no salir de mi mandamiento
+<lb/>lo fue<am>̄</am> ã velar,</ab> <ab n="8600"><seg type="rhetoric" subtype="colloquial">e<am>̄</am> p<am>.ͬ</am><ex>or</ex> mis pecados</seg> <seg rend="cr"><am>.ˡˡͣ</am><ex>uella</ex> noche le diõ</seg>
+<lb/><seg rend="int">la pestilencia</seg> e otro dia le enterré,</ab> <ab n="8700">y <person>el enfermo</person><note resp="HKBOBS">Leonor first calls her adopted son "Mozo Doliente" and then "el enfermo." The lack of giving him a personal name certainly dehumanizes him, especially in comparison to the description of her own son.</note> viviõ desp<am>.ˢ</am><ex>ues</ex>
+<lb/>hav<am>.ͩͦ</am><ex>ido</ex> muerto todos los dichos,</ab> <ab n="8800">e<am>̄</am> <name>D<am>.ͣ</am><ex>oña</ex> theresa.</name>
+
+<pb n="8v"/>
+<lb/>muger de D<am>.</am><ex>on</ex> <name>Alfonso <choice><abbr>Fern<am>̄</am>z</abbr><expan>Fern<ex>ande</ex>z</expan></choice></name> <seg type="lexis" subtype="family">mi Primo</seg> <seg type="rhetoric" subtype="amplification">hubo mui
+<lb/>gran enojo</seg>, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> moria mi fijo p<am>.ͬ</am><ex>or</ex> tal ocacion
+=<lb/>en su <place>casa</place>, y <seg type="lexis" subtype="body">la muerte</seg> <seg type="lexis" subtype="body">en la voca</seg> lo mandaba
+<lb/>sacar de ella,</ab> <ab n="8900">y <seg type="I">yo</seg> estaba <seg type="rhetoric" subtype="amplification">tan traspasada de 
+<lb/>pesar</seg>, q<am>.ͤ</am><ex>ue</ex> <seg type="rhetoric" subtype="pathos">no podia hablar del corrim<am>.ͭͦ</am><ex>iento</ex> q<am>.ͤ</am><ex>ue</ex> aque
+<lb rend="hyphen" break="no"/>llos señores me hacian</seg>,</ab> <ab n="9000">y <seg type="lexis" subtype="son">el tristre de mi hijo</seg>
+<lb/>dezia: <seg type="laic" subtype="performance">decid ã mi S<am>.ͣ</am><ex>eñora</ex> D<am>.ͣ</am><ex>oña</ex> theresa q<am>.ͤ</am><ex>ue</ex> no me haga
+<lb/>echar q<am>.ͤ</am><ex>ue</ex> agora saldrã <seg type="lexis" subtype="body">mi anima</seg> p<am>.ͣ</am><ex>ara</ex> el cielo</seg>,</ab> <ab n="9100">y 
+<lb/>aquella noche <seg type="lexis" subtype="body">falleciõ</seg>, y se enterrõ en <place>S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name>
+<lb/>la coronada</place>, q<am>.ͤ</am><ex>ue</ex> es en <place>la villa</place>, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> <person>D<am>.ͣ</am><ex>oña</ex> theresa</person> me
+<lb/>tenia mala intencíon, y no savia <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>,</ab> <ab n="9200">y M<am>ͩͦ</am><ex>andõ</ex>
+q<am>.ͤ</am><ex>ue</ex> no lo soterrasen dentro de la V<am>.ͣ</am><ex>illa</ex>,</ab> <ab n="9300">y asi q<am>.ͩͦ</am><ex>uando</ex> lo
+<lb/>llevaban ã enterrar fui <seg type="I">Yo</seg> con <seg type="lexis" subtype="son">El</seg>, y q<am>.ͩͦ</am><ex>uando</ex> iba p<am>.ͬ</am><ex>or</ex>
+<lb/>la calle con <seg type="lexis" subtype="son">mi hijo</seg>, <seg type="genre" subtype="performance">las Gentes salian dando
+<lb/>alaridos, amancillados de me, y decian:</seg></ab> <ab n="9400"><seg type="genre" subtype="performance">Salid Se
+<lb rend="hyphen" break="no"/>ñores, y vereis <seg type="rhetoric" subtype="pathos">la mas desventurada desampa
+<lb rend="hyphen" break="no"/>rada, e<am>̄</am> mas Maldita mug<am>.ͬ</am><ex>er</ex> del mundo</seg></seg>, <seg type="rhetoric" subtype="amplification">con los
+<lb/>gritos q<am>.ͤ</am><ex>ue</ex> los Cielos traspasaban</seg></ab> <ab n="9500">e<am>̄</am> como los de
+<lb/>aquel Lugar todos eran Crianza, y echura del 
+<lb/>S<am>.ͦͬ</am><ex>eñor</ex> mi <seg type="lexis" subtype="father">Padre</seg>, y aunq<am>.ͤ</am><ex>ue</ex> sabian que les pesaba ã 
+<lb/>sus Señores <note resp="HKBOBS">It seems that here Leonor is again highlighting a riff between her father's side of the family and her mother's</note> <seg type="rhetoric" subtype="ecphonesis">hicieron grande llanto conmigo</seg>
+<lb/>como si fuera su S<am>ͬͣ</am><ex>eñora</ex>=</ab> <ab n="9600"><seg type="lexis" subtype="time">esta noche</seg>, como vine
+<lb/>de soterrar ã <seg type="lexis" subtype="son">mi fijo</seg>, luego me dixeron q<am>.ͤ</am><ex>ue</ex> me
+<lb/>viniese ã Cor<am>.ᵇͣ</am><ex>doba</ex>, </ab> <ab n="9700">e<am>̄</am> <seg type="I">Yo</seg> llegué ã mi S<am>.ͣ</am><ex>eñora</ex> <person>tia</person> p<am>.ͬ</am><ex>or</ex> ver
+<lb/>sime lo mandaba Ella,</ab> <ab n="9800"><seg type="laic" subtype="performance">Ella me dijo <seg type="lexis" subtype="family">Sobrina
+<lb/>S<am>.ͣ</am><ex>eñora</ex></seg> no puedo dexar de hazerlo, q<am>.ͤ</am><ex>ue</ex> ã <seg type="lexis" subtype="family">mi Nuera</seg>
+<lb/>y ã <seg type="lexis" subtype="family">mis fijas</seg> e<am>̄</am> prometido</seg> <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> son echas en
+<lb/>uno, y en tando me hãn afligido q<am>.ͤ</am><ex>ue</ex> os parta <seg place="rm">de mi</seg>
+
+<pb n="9r"/>que selo ove otorgado,</ab> <ab n="9900">e<am>̄</am> esto no se q<am>.ͤ</am><ex>ue</ex> enojo ha
+<lb rend="hyphen" break="no"/>ceis ã <seg type="lexis" subtype="family">mi Nuera</seg> D<am>.ͣ</am><ex>oña</ex> <name>theresa</name> q<am>.ͤ</am><ex>ue</ex> tan mala in
+<lb rend="hyphen" break="no"/>tencíon os tiene,</ab> <ab n="1000">y <seg type="genre" subtype="performance"><seg type="I">yo</seg> le dixe <seg type="rhetoric" subtype="pathos">con m<am>.ˢ</am><ex>is</ex> lagrimas</seg>:
+<lb/>Serã <seg type="authority" subtype="God">Dios</seg> no me salve si mereci <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>,</seg></ab> <ab n="1100">y asi vi
+<lb rend="hyphen" break="no"/>neme ã mis <place>casas</place>s ã <seg type="lexis" subtype="place">Cor<am>.ͬ</am><ex>doba</ex></seg>:<note resp="HKBOBS">the narrative seems to end abruptly with Leonor's son's death and her subsequent expulsion from her aunt's house. However it also ends at "home." After all, she is Leonor López "de Córdoba."</note></ab>
+</ab></div></div></body></text></TEI>
+
