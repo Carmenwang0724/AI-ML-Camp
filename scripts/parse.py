@@ -21,7 +21,7 @@ def parse_tei_xml(file_path):
                 plain_text.append(seg_text.strip())
 
                 # Separate by type (rhetorical or lexical)
-                if seg_type == 'rhet':
+                if seg_type == 'rhetoric':
                     rhetorical_devices.append((seg_text.strip(), seg_subtype))
                 elif seg_type == 'lexis':
                     lexical_segments.append((seg_text.strip(), seg_subtype))
