@@ -1,0 +1,119 @@
+import pandas as pd
+from datasets import Dataset
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments
+from lxml import etree
+import numpy as np
+from sklearn.metrics import accuracy_score, precision_recall_fscore_support
+
+def parse_tei_xml(file_path):
+    
+        # Parse the XML file
+        tree = etree.parse(file_path)
+        root = tree.getroot()  # Get the root of the XML document
+        # Initialize lists to store metaphorical and non-metaphorical devices
+        anaphora_devices = []
+        non_anaphora_devices = []
+        # Iterate through all the <seg> elements and check for type and subtype
+        for seg in root.xpath('.//seg'):
+            seg_type = seg.get('type')
+            seg_subtype = seg.get('subtype', 'No subtype')  # Default to 'No subtype' if missing
+            # We're only interested in rhetorical devices
+            if seg_type == 'rhetoric':
+                # Gather all text inside <seg> (even nested)
+                full_text = []
+                for text in seg.itertext():
+                    full_text.append(text.strip())
+                full_text = ' '.join(full_text).strip()
+
+                if full_text:
+                    if seg_subtype == 'anaphora':
+                        anaphora_devices.append(full_text)         # Label 1
+                    else:
+                        non_anaphora_devices.append(full_text)     # Label 0
+
+        return anaphora_devices, non_anaphora_devices            
+
+# Load CSV
+df = pd.read_csv("AI-ML-Camp/anaphora/rhetorical_anaphora_dataset_200.csv")
+test_df_1 = pd.read_xml("AI-ML-Camp/data/xml/Arboleda1119.xml")
+
+# Combine sentence1 + sentence2 + sentence3
+df["text"] = df["sentence1"] + " " + df["sentence2"] + " " + df["sentence3"]
+# Use XML parser to get texts and labels
+anaphora_texts, non_anaphora_texts = parse_tei_xml("AI-ML-Camp/data/xml/Arboleda1119.xml")
+
+# Create test DataFrame from parsed data
+test_df_1 = pd.DataFrame({
+    "text": anaphora_texts + non_anaphora_texts,
+    "label": [1] * len(anaphora_texts) + [0] * len(non_anaphora_texts)
+})
+
+# Convert to HuggingFace Datasets
+train_ds = Dataset.from_pandas(df[["text","label"]])
+test_ds = Dataset.from_pandas(test_df_1[["text","label"]])
+
+# Load BETO tokenizer
+tokenizer = AutoTokenizer.from_pretrained("dccuchile/bert-base-spanish-wwm-cased")
+
+# Tokenize
+def tokenize(example):
+    return tokenizer(example["text"], truncation=True, padding="max_length", max_length=128)
+
+train_ds = train_ds.map(tokenize, batched=True)
+test_ds = test_ds.map(tokenize, batched=True)
+# Set format for PyTorch tensors
+train_ds.set_format(type='torch', columns=['input_ids', 'attention_mask', 'label'])
+test_ds.set_format(type='torch', columns=['input_ids', 'attention_mask', 'label'])
+
+# Load BETO model
+#forcing it to be safetensors
+model = AutoModelForSequenceClassification.from_pretrained(
+    "dccuchile/bert-base-spanish-wwm-cased", 
+    num_labels=2, 
+    trust_remote_code=True,
+    use_safetensors=True
+)
+
+# Training arguments
+training_args = TrainingArguments(
+    output_dir="./beto-rhetorical-anaphora",
+    eval_strategy="no",
+    per_device_train_batch_size=8,
+    per_device_eval_batch_size=8,
+    num_train_epochs=5,
+    save_strategy="no",
+    logging_dir="./logs",
+    load_best_model_at_end=False
+)
+
+# Trainer
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=train_ds,
+    tokenizer=tokenizer
+)
+
+# Train
+trainer.train()
+
+#save model
+trainer.save_model("beto-anaphora-model")
+tokenizer.save_pretrained("beto-anaphora-model")
+
+#finding accuracy
+
+
+# Predict on test dataset
+predictions = trainer.predict(test_ds)
+preds = np.argmax(predictions.predictions, axis=1)
+labels = predictions.label_ids
+
+# Compute accuracy
+accuracy = accuracy_score(labels, preds)
+precision, recall, f1, _ = precision_recall_fscore_support(labels, preds, average='weighted')
+
+print(f"Accuracy:  {accuracy:.4f}")
+print(f"Precision: {precision:.4f}")
+print(f"Recall:    {recall:.4f}")
+print(f"F1 Score:  {f1:.4f}")
